@@ -7,7 +7,7 @@ https://github.com/DikaArdnt/Hisoka-Morou
 
 
 <p align="center">
-	<img src="https://telegra.ph/file/9599c1e9168e54ac810a1.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/9599c1e9168e54ac810a1.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Slemek-bot</h1>
 
