@@ -1,15 +1,11 @@
 # CATATAN ( NOTE )
-Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
+Script ini ga boleh di perjual belikan ygy. Gratisan kok bang, Script ini dibuat sama orang yang namanya "jas kidding." Kalau mau lihat lebih lanjut, bisa cek YouTube di akun Ananda1240 atau Instagram di @ananda1240_. Kalau ada pertanyaan, bisa nih kontak pembuatnya lewat WhatsApp di nomor 6282139672290.
 
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
+Jadi, inget ya, gunain script ini sesuai aturan. Gak boleh jual-jualan atau komersial. Itu kan bentuk penghargaan kita ke si pembuat yang udah ngasih gratisan. 😄
 
-Best Regards. Hisoka
 
-# Hisoka-Morou
+# Slemek-bot
 Script WhatsApp Bot Multi Device
-
-## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
 	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
