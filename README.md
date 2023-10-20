@@ -2,8 +2,10 @@
 Script ini ga boleh di perjual belikan ygy. Gratisan kok bang, Script ini dibuat sama orang yang namanya "jas kidding." Kalau mau lihat lebih lanjut, bisa cek YouTube di akun Ananda1240 atau Instagram di @ananda1240_. Kalau ada pertanyaan, bisa nih kontak pembuatnya lewat WhatsApp di nomor 6282139672290.
 
 Jadi, inget ya, gunain script ini sesuai aturan. Gak boleh jual-jualan atau komersial. Itu kan bentuk penghargaan kita ke si pembuat yang udah ngasih gratisan. 😄
-Script asli:
+## Script asli
+```bash
 https://github.com/DikaArdnt/Hisoka-Morou
+```
 
 
 <p align="center">
